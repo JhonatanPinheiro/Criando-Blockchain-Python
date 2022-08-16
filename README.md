@@ -8,3 +8,9 @@ Spyder:
 Postman: Um programa para fazer a requisição HTTP
 
 Flask: É um pacote para criar aplicações WEB
+
+
+1º Na ferramenta Spyde fazemos a construção de todos o código que está na linguagem Python! Depois selecionamos o código inteiro e compilamos !
+2º Na Ferramenta Postman iremos informa a url (servidor local) para está executando a aplicação !
+
+
